@@ -8,56 +8,14 @@
 <channel>
 	<title>
 	Comments for 	</title>
-	<atom:link href="http://localhost/nhi/comments/feed/?simply_static_page=8550" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/nhi/comments/feed/?simply_static_page=9114" rel="self" type="application/rss+xml" />
 	<link>https://ngvynhi.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Thu, 11 May 2023 04:23:10 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 May 2023 09:43:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
-	<item>
-		<title>
-		Comment on LOVE IS LOVE by ngvynhi		</title>
-		<link>https://ngvynhi.github.io/mywordpress/love-is-love/#comment-4</link>
-
-		<dc:creator><![CDATA[ngvynhi]]></dc:creator>
-		<pubDate>Thu, 11 May 2023 04:23:10 +0000</pubDate>
-		<guid isPermaLink="false">https://ngvynhi.github.io/mywordpress/?p=12#comment-4</guid>
-
-					<description><![CDATA[áiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii]]></description>
-			<content:encoded><![CDATA[<p>áiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Comment on LOVE IS LOVE by ngvynhi		</title>
-		<link>https://ngvynhi.github.io/mywordpress/love-is-love/#comment-3</link>
-
-		<dc:creator><![CDATA[ngvynhi]]></dc:creator>
-		<pubDate>Thu, 11 May 2023 04:21:22 +0000</pubDate>
-		<guid isPermaLink="false">https://ngvynhi.github.io/mywordpress/?p=12#comment-3</guid>
-
-					<description><![CDATA[nhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii]]></description>
-			<content:encoded><![CDATA[<p>nhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Comment on LOVE IS LOVE by ngvynhi		</title>
-		<link>https://ngvynhi.github.io/mywordpress/love-is-love/#comment-2</link>
-
-		<dc:creator><![CDATA[ngvynhi]]></dc:creator>
-		<pubDate>Thu, 11 May 2023 04:20:49 +0000</pubDate>
-		<guid isPermaLink="false">https://ngvynhi.github.io/mywordpress/?p=12#comment-2</guid>
-
-					<description><![CDATA[cúc cu cúc cu]]></description>
-			<content:encoded><![CDATA[<p>cúc cu cúc cu</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
